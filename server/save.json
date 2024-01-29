@@ -212,13 +212,8 @@
     },
     {
       "email_id": "sonu@gmail.com",
-      "pass": "Sonu@12345",
+      "pass": "Sonu@9999",
       "id": 43
-    },
-    {
-      "email_id": "sonu@gmail.com",
-      "pass": "Sonu@123",
-      "id": 44
     }
   ]
 }
